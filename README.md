@@ -4,22 +4,14 @@ I used to go around GitHub and Discord communities as @snikhill and then, @nikkh
 
 I have been around tech for close to a decade and professionally for around 6 years. Anything with web, I can do it. Mostly anything with mobiles, I can do it, if not then, I can figure it out. Always been a tinkerer.
 
-Read more here: https://nikkhielseath.com/about
+Get to know more about me here: https://nikkhielseath.com/about
+
+## Connect with me
+
+dev.to: https://dev.to/nikkhielseath
+x: https://x.com/nikkhielseath
+
+## Recommended Books
+- https://nikkhielseath.com/book-shelf/
 
 (PS: I shall be updating this READ ME as I go).
-
-
-<!--
-**ausrname123/ausrname123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
